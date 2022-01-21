@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "432315490007",
+    "project_id": "find-my-tutor-1b0f0",
+    "storage_bucket": "find-my-tutor-1b0f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432315490007:android:7493f289dec17d8c931a92",
+        "android_client_info": {
+          "package_name": "com.example.findmytutor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432315490007-oa457vtfd43nvtecaiafvh8o1qmc0j76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.findmytutor",
+            "certificate_hash": "11fa4d88aa2815fcba099ec01cfb99b9bfb5d945"
+          }
+        },
+        {
+          "client_id": "432315490007-uuu1ai50hannocsuimv49odeejmjmk7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvta28fKFuQxaTPp_VH6KFr80dC5S-XYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432315490007-uuu1ai50hannocsuimv49odeejmjmk7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
